@@ -112,7 +112,7 @@ export default class PokedexLists extends Component{
 
     render() {
         return (
-            <div className='halamanawal-container'>
+            <div className='halamanpokemon'>
                 <Img src='https://giffiles.alphacoders.com/130/130885.gif'></Img>
                     <TableContainer Component={Paper}>
                     <Table className={useStyles.table}>
