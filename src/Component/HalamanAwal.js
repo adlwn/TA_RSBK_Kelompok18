@@ -31,4 +31,5 @@ function HalamanAwal() {
     </div>
   );
 }
+
 export default HalamanAwal;
